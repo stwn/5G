@@ -1,6 +1,12 @@
-About This Book
+About This Repo
 ===============
 
+This repository is intended to be a place for storing *5G Mobile
+Networks: A Systems Approach* translation into Indonesian or Bahasa
+Indonesia (id).
+
+About the Book
+--------------
 This `repository <https://github.com/SystemsApproach/5G>`__ contains
 source for *5G Mobile Networks: A Systems Approach*, available under
 terms of the `Creative Commons (CC BY 4.0)
