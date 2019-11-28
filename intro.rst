@@ -1,13 +1,13 @@
-Chapter 1:  Introduction
+Bab 1:  Pengenalan
 ===========================
 
-Mobile networks, which have a 40-year history that parallels the
-Internet’s, have undergone significant change. The first two generations
-supported voice and then text, with 3G defining the transition to
-broadband access, supporting data rates measured in hundreds of
-kilobits-per-second. Today, the industry is at 4G (supporting data rates
-typically measured in the few megabits-per-second) and starting the
-transition to 5G, with the promise of a tenfold increase in data rates.
+Jaringan bergerak (*mobile*), yang memiliki sejarah selama 40 tahun 
+berdampingan dengan Internet, telah mengalami perubahan yang signifikan.
+Dua generasi awal mendukung suara kemudian teks, dengan 3G yang
+menentukan transisi ke akses jalur lebar (*broadband*) dan mendukung laju
+data ratusan kilobit per detik. Saat ini, industri memakai 4G dengan
+laju data dalam megabit per detik, dan dengan dimulainya transisi ke 5G,
+diharapkan terjadi 10 kali peningkatan.
 
 But 5G is about much more than increased bandwidth. In the same way 3G
 defined the transition from voice to broadband, 5G’s promise is primarily
