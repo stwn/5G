@@ -3,24 +3,24 @@ Bab 1:  Pengenalan
 
 Jaringan bergerak (*mobile*), yang memiliki sejarah selama 40 tahun 
 berdampingan dengan Internet, telah mengalami perubahan yang signifikan.
-Dua generasi awal mendukung suara kemudian teks, dengan 3G yang
+Dua generasi awal mendukung suara dan teks, kemudian datang 3G yang
 menentukan transisi ke akses jalur lebar (*broadband*) dan mendukung laju
-data ratusan kilobit per detik. Saat ini, industri memakai 4G dengan
-laju data dalam megabit per detik, dan dengan dimulainya transisi ke 5G,
+data ratusan kilobit per detik. Saat ini, industri menggunakan 4G dengan
+laju data megabit per detik, dan dengan dimulainya transisi ke 5G,
 diharapkan terjadi 10 kali peningkatan.
 
-But 5G is about much more than increased bandwidth. In the same way 3G
-defined the transition from voice to broadband, 5G’s promise is primarily
-about the transition from a single access service (broadband
-connectivity) to a richer collection of edge services and devices,
-including support for immersive user interfaces (e.g., AR/VR),
-mission-critical applications (e.g., public safety, autonomous
-vehicles), and the Internet-of-Things (IoT). Because these use cases
-will include everything from home appliances to industrial robots to
-self-driving cars, 5G won’t just support humans accessing the Internet
-from their smartphones, but also swarms of autonomous devices working
-together on their behalf. All of this requires a fundamentally
-different architecture.
+Namun 5G lebih dari sekadar penambahan *bandwidth*. Seperti halnya 3G
+yang menentukan transisi dari suara ke *broadband*, 5G menjanjikan 
+transisi dari layanan akses tunggal (konektivitas *broadband*) ke
+kumpulan layanan dan perangkat ujung (*edge*) yang bervariasi,
+termasuk dukungan untuk antarmuka pemakai imersif (seperti AR/VR),
+aplikasi *mission-critical* (contoh keamanan publik, kendaraan otonom),
+dan *Internet-of-Things* (IoT). Kasus-kasus ini akan mencakup
+berbagai macam hal dari perkakas rumahan, robot industri, sampai
+mobil yang berjalan sendiri, jadi 5G tidak hanya mendukung manusia
+untuk mengakses Internet dari ponsel saja, tetapi juga kumpulan
+perangkat otonom yang saling bekerja bersama untuk tujuan tertentu.
+Semuanya membutuhkan arsitektur yang berbeda.
 
 The requirements for this architecture are ambitious, and can be
 summarized as having three main objectives:
