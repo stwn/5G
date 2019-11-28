@@ -12,9 +12,10 @@ ketertarikan Anda.
 Hal penting yang perlu dipahami dari 5G adalah implikasinya yang lebih 
 dari sekadar peningkatan *bandwidth*. Teknologi ini melibatkan perubahan 
 transformatif yang memudarkan batas antara jaringan akses dan *cloud*. 
-5G juga akan berpotensi untuk membalik perspektif *“Access-as-frontend-to-
-Internet”*. Kita nantinya akan lebih banyak berbicara tentang *“Internet-
-as-backend-to-Access”* sepuluh tahun dari sekarang.
+5G juga akan berpotensi untuk membalik perspektif 
+*“Access-as-frontend-to-Internet”*. Kita nantinya akan lebih banyak
+berbicara tentang *“Internet-as-backend-to-Access”* sepuluh tahun dari
+sekarang.
 
 Buku ini ditulis untuk orang-orang yang memiliki pemahaman praktis 
 tentang Internet dan *Cloud*, tetapi mempunyai pengetahuan terbatas akan
