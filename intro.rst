@@ -22,26 +22,25 @@ untuk mengakses Internet dari ponsel saja, tetapi juga kumpulan
 perangkat otonom yang saling bekerja bersama untuk tujuan tertentu.
 Semuanya membutuhkan arsitektur yang berbeda.
 
-The requirements for this architecture are ambitious, and can be
-summarized as having three main objectives:
+Kebutuhan untuk arsitektur ini ambisius, dan dapat disarikan dalam
+tiga tujuan utama:
 
-- To support *Massive Internet-of-Things*, potentially including
-  devices with ultra-low energy (10+ years of battery life), ultra-low
-  complexity (10s of bits-per-second), and ultra-high density (1
-  million nodes per square kilometer).
+- mendukung *Massive Internet-of-Things*, yang memungkinkan perangkat
+  dengan energi sangat rendah (baterai berdaya tahan 10+ tahun), 
+  kompleksitas sangat rendah (puluhan bit per detik), dan kepadatan
+  sangat tinggi (1 juta simpul per kilometer persegi).
 
-- To support *Mission-Critical Control*, potentially including
-  ultra-high availability (greater than :math:`10^{-5}` per ms),
-  ultra-low latency (as low as 1 ms), and extreme mobility (up to 100
-  km/h).
+- mendukung *Mission-Critical Control*, yang memungkinkan ketersediaan
+  sangat tinggi (lebih dari :math:`10^{-5}` per milidetik), latensi
+  sangat rendah (sampai dengan 1 milidetik), dan mobilitas ekstrim
+  (sampai dengan 100 km/jam).
   
-- To support *Enhanced Mobile Broadband*, potentially including extreme
-  capacity (10 Tbps per square kilometer) and extreme data rates
-  (multi-Gbps peak, 100+ Mbps sustained).
+- mendukung *Enhanced Mobile Broadband*, yang memungkinkan kapasitas
+  ekstrim (10 Tbps per kilometer persegi) dan laju data ekstrim 
+  (multi-Gbps puncak, 100+ Mbps konstan).
   
-These targets will certainly not be met overnight, but that's in keeping
-with each generation of the mobile network being a decade-long
-endeavor.
+Target-target ini tidak dapat diperoleh dalam semalam, namun menjadi
+capaian setiap generasi jaringan bergerak dalam ikhtiar satu dekade.
 
 The 5G mobile network, because it is on an
 evolutionary path and not a point solution, includes standardized
