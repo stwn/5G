@@ -42,21 +42,22 @@ tiga tujuan utama:
 Target-target ini tidak dapat diperoleh dalam semalam, namun menjadi
 capaian setiap generasi jaringan bergerak dalam ikhtiar satu dekade.
 
-The 5G mobile network, because it is on an
-evolutionary path and not a point solution, includes standardized
-specifications, a range of implementation choices, and a long list of
-aspirational goals. Because this leaves so much room for interpretation,
-our approach to describing 5G is grounded in two mutually-supportive
-principles. The first is to apply a *systems lens*, which is to say, we
-explain the sequence of design decisions that lead to a solution rather
-than fall back on enumerating the overwhelming number of acronyms as a
-*fait accompli*. The second is to aggressively disaggregate the system.
-Building a disaggregated, virtualized, and software-defined 5G access
-network is the direction the industry is already headed (for good
-technical and business reasons), but breaking the 5G network down into
-its elemental components is also the best way to explain how 5G works.
-It also helps to illustrate how 5G might evolve in the future to provide
-even more value.
+Jaringan 5G, yang sedang dalam proses evolusi, memerlukan spesifikasi
+standar, beragam pilihan implementasi, dan daftar panjang sasaran yang
+dituju. Untuk itu akan ada banyak interpretasi, karena itu pendekatan
+kami ketika menjelaskan 5G berdasar pada prinsip saling mendukung.
+Prinsip pertama adalah menerapkan sebuah "lensa sistem" dengan
+penjelasan urutan putusan desain yang menghasilkan solusi daripada
+kembali menuliskan daftar panjang singkatan sebagai sebuah
+*fait accompli*. Prinsip kedua yaitu melakukan disagregasi secara
+agresif sistem tersebut. Membangun sebuah jaringan akses 5G yang
+disagregasif, menerapkan virtualisasi, dan *software-defined* adalah
+arah industri saat ini yang sedang dikejar (karena tujuan teknis dan
+bisnis yang bagus), namun dengan melepas jaringan 5G menjadi
+komponen-komponen dasar merupakan cara terbaik untuk menjelaskan
+bagaimana cara kerja 5G. Hal ini juga membantu menggambarkan bagaimana
+5G dapat berubah di kemudian hari dengan menawarkan nilai lebih besar
+lagi.
 
 What this all means is that there is no single, comprehensive definition
 of 5G, any more than there is for the Internet. It is a complex and
