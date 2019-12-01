@@ -59,16 +59,16 @@ bagaimana cara kerja 5G. Hal ini juga membantu menggambarkan bagaimana
 5G dapat berubah di kemudian hari dengan menawarkan nilai lebih besar
 lagi.
 
-What this all means is that there is no single, comprehensive definition
-of 5G, any more than there is for the Internet. It is a complex and
-evolving system, constrained by a set of standards that purposely give
-all the stakeholders many degrees of freedom. In the chapters that
-follow, it should be clear from the context whether we are talking about
-*standards* (what everyone must do to interoperate), *trends* (where
-the industry seems to be headed), or *implementation choices*
-(examples to make the discussion more concrete). By adopting a systems
-perspective throughout, our intent is to describe 5G in a way that
-helps the reader navigate this rich and rapidly evolving system.
+Dengan demikian, tidak ada definisi tunggal dan komprehensif untuk 5G,
+seperti halnya Internet. Sistem ini kompleks dan berubah, dibatasi oleh
+sekumpulan standar yang bertujuan untuk memberikan bermacam kebebasan
+kepada semua pemangku kepentingan. Pada bab selanjutnya akan dapat
+dilihat dengan lebih jelas dari konteks mana kita berbicara, *standard*
+(yang setiap orang harus lakukan untuk saling bekerjasama), *tren* (arah
+mana industri tertuju), atau *pilihan implementasi* (contoh untuk
+membuat diskusi menjadi lebih konkrit). Dengan mengadopsi sebuah
+perspektif sistem, kami berharap dapat menjelaskan 5G dan membantu pembaca
+mengikuti sistem yang kaya potensi dan berkembang cepat ini.
 
 1.1 Standardization Landscape
 -----------------------------
