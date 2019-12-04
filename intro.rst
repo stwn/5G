@@ -70,18 +70,18 @@ membuat diskusi menjadi lebih konkrit). Dengan mengadopsi sebuah
 perspektif sistem, kami berharap dapat menjelaskan 5G dan membantu pembaca
 mengikuti sistem yang kaya potensi dan berkembang cepat ini.
 
-1.1 Standardization Landscape
+1.1 Lanskap Standardisasi
 -----------------------------
 
-As of 3G, the generational designation corresponds to a standard defined
-by the 3GPP (3rd Generation Partnership Project). Even though its name
-has “3G” in it, the 3GPP continues to define the standards for 4G and 5G,
-each of which corresponds to a sequence of releases of the standard.
-Release 15 is considered the demarcation point between 4G and 5G, with
-Release 16 expected by the end of 2019. Complicating the terminology, 4G
-was on a multi-release evolutionary path referred to as *Long Term
-Evolution (LTE)*. 5G is on a similar evolutionary path, with several
-expected releases over its lifetime.
+Sejak 3G, perancangan generasi jaringan bergerak sesuai dengan standar
+yang ditentukan oleh 3GPP (*3rd Generation Partnership Project*). Bahkan
+meskipun ada "3G" di namanya, 3GPP masih mendefinisikan standar untuk 4G
+dan 5G, masing-masing sesuai dengan urutan rilis standar. Rilis 15
+dianggap sebagai titik pemisah antara 4G dan 5G, untuk Rilis 16
+diharapkan akan tersedia di akhir 2019. Terkait dengan istilah, 4G
+mengikuti lintasan evolusi multirilis yang disebut dengan *Long Term
+Evolution (LTE)*. 5G juga berada pada lintasan yang mirip, dengan
+beberapa rilis di dalam rentang perkembangannya.
 
 While 5G is an ambitious advance beyond 4G, it is also the case that
 understanding 4G is the first step to understanding 5G, as several
