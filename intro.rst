@@ -83,19 +83,19 @@ mengikuti lintasan evolusi multirilis yang disebut dengan *Long Term
 Evolution (LTE)*. 5G juga berada pada lintasan yang mirip, dengan
 beberapa rilis di dalam rentang perkembangannya.
 
-While 5G is an ambitious advance beyond 4G, it is also the case that
-understanding 4G is the first step to understanding 5G, as several
-aspects of the latter can be explained as bringing a new
-degree-of-freedom to the former. In the chapters that follow, we often
-introduce some architectural feature of 4G as a way of laying the
-foundation for the corresponding 5G component.
+Walaupun 5G lebih ambisius daripada 4G, memahami 4G adalah langkah awal
+untuk mempelajari 5G, karena beberapa aspek pada 5G dapat dijelaskan
+dengan melihat penambahan fitur pada 4G. Pada bab-bab berikutnya, kami
+akan sering mengenalkan arsitektur 4G untuk memberikan dasar pada
+komponen 5G yang terkait.
 
-Like Wi-Fi, cellular networks transmit data at certain bandwidths in the
-radio spectrum. Unlike Wi-Fi, which permits anyone to use a channel at
-either 2.4 or 5 GHz (these are unlicensed bands), governments have
-auctioned off and licensed exclusive use of various frequency bands to
-service providers, who in turn sell mobile access service to their
-subscribers.
+Seperti Wi-Fi, jaringan seluler mengirimkan data lewat bandwidth
+tertentu dalam spektrum radio. Namun, tidak serupa dengan Wi-Fi yang
+diizinkan untuk menggunakan kanal baik 2.4 or 5 GHz (pita frekuensi
+ini tidak membutuhkan izin), pemerintah telah melelang dan memberikan
+lisensi eksklusif untuk penggunaan bermacam pita frekuensi kepada
+pada penyedia layanan 5G, yang akan menawarkan layanan akses bergerak
+pada para pelanggan.
 
 There is also a shared-license band at 3.5-GHz, called *Citizens
 Broadband Radio Service (CBRS)*, set aside in North America for cellular
