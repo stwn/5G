@@ -97,18 +97,18 @@ lisensi eksklusif untuk penggunaan bermacam pita frekuensi kepada
 pada penyedia layanan 5G, yang akan menawarkan layanan akses bergerak
 pada para pelanggan.
 
-There is also a shared-license band at 3.5-GHz, called *Citizens
-Broadband Radio Service (CBRS)*, set aside in North America for cellular
-use. Similar spectrum is being set aside in other countries. The CBRS band
-allows three tiers of users to share the spectrum: first right of use
-goes to the original owners of this spectrum, naval radars and satellite
-ground stations; followed by priority users who receive this right over
-10MHz bands for three years via regional auctions; and finally the rest
-of the population, who can access and utilize a portion of this band as
-long as they first check with a central database of registered users.
-CBRS, along with standardization efforts to extend cellular networks to
-operate in the unlicensed bands, open the door for private cellular
-networks similar to Wi-Fi.
+Terdapat pula pita berlisensi bersama pada 3.5-GHz yang disebut *Citizens
+Broadband Radio Service (CBRS)* untuk pemakaian seluler di Amerika Utara.
+Spektrum yang mirip sedang disiapkan di negara-negara lain. Pita CBRS
+memberikan tiga tingkat pengguna untuk mengakses spektrum: hak pertama
+diberikan kepada pemilik awal spektrum ini, radar dan stasiun bumi satelit
+angkatan laut; diikuti dengan pemakai prioritas yang menerima hak untuk
+pita 10MHz selama tiga tahun melalui lelang regional; dan terakhir
+adalah masyarakat yang dapat mengakses dan menggunakan porsi pita ini
+dengan pemeriksaan pada basis data terpusat untuk pemakai yang terdaftar.
+CBRS, dengan usaha standardisasi dilakukan untuk memperluas jaringan
+seluler yang beroperasi pada pita tidak berlisensi, membuka pintu untuk
+jaringan seluler swasta, serupa dengan yang terjadi pada Wi-Fi.
 
 The specific frequency bands that are licensed for cellular networks
 vary around the world, and are complicated by the fact that network
