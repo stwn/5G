@@ -110,20 +110,20 @@ CBRS, dengan usaha standardisasi dilakukan untuk memperluas jaringan
 seluler yang beroperasi pada pita tidak berlisensi, membuka pintu untuk
 jaringan seluler swasta, serupa dengan yang terjadi pada Wi-Fi.
 
-The specific frequency bands that are licensed for cellular networks
-vary around the world, and are complicated by the fact that network
-operators often simultaneously support both old/legacy technologies and
-new/next-generation technologies, each of which occupies a different
-frequency band. The high-level summary is that traditional cellular
-technologies range from 700-MHz to 2400-MHz, with new mid-spectrum
-allocations now happening at 6-GHz, and millimeter-wave (mmWave)
-allocations opening above 24-GHz.
+Pita frekuensi spesifik yang berlisensi untuk jaringan seluler beragam di
+seluruh dunia, dan hal ini semakin kompleks dengan operator jaringan
+yang masih menyediakan dukungan untuk teknologi lama dan baru secara
+simultan. Masing-masing teknologi tersebut menempati pita frekuensi yang
+berbeda. Secara umum teknologi seluler tradisional berada pada kisaran
+antara 700-MHz sampai 2400-MHz, dengan spektrum menengah baru 6-GHz yang
+saat ini sedang dilakukan, dan millimeter-wave (mmWave) dibuka dengan
+frekuensi di atas 24-GHz.
 
-While the specific frequency band is not directly relevant to
-understanding 5G from an architectural perspective, it does impact the
-physical-layer components, which in turn has indirect ramifications on
-the overall 5G system. We identify and explain these ramifications
-in later chapters.
+Meskipun pita frekuensi spesifik tidak relevan secara langsung untuk
+memahami 5G dari perspektif arsitektur, tetapi hal ini berdampak pada
+komponen lapis fisik, yang selanjutnya akan berpengaruh secara tidak
+langsung pada seluruh sistem 5G. Kami akan mengenalkan dan menjelaskan
+tentang konsekuensinya pada bab-bab selanjutnya.
 
 1.2 Access Networks
 -------------------
