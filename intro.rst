@@ -125,38 +125,40 @@ komponen lapis fisik, yang selanjutnya akan berpengaruh secara tidak
 langsung pada seluruh sistem 5G. Kami akan mengenalkan dan menjelaskan
 tentang konsekuensinya pada bab-bab selanjutnya.
 
-1.2 Access Networks
+1.2 Jaringan Akses
 -------------------
 
-The cellular network is part of the access network that implements the
-Internet’s so-called *last mile*. Other access technologies include
-*Passive Optical Networks (PON)*, colloquially known as
-Fiber-to-the-Home. These access networks are provided by both big and
-small network operators. Global network operators like AT&T run access
-networks at thousands of aggregation points-of-presence across a
-country like the US, along with a national backbone that interconnects
-those sites. Small regional and municipal network operators might run
-an access network with one or two points-of-presence, and then connect
-to the rest of the Internet through some large operator’s backbone.
+Jaringan seluler mempunyai jaringan akses yang menerapkan Internet
+yang disebut *last mile*. Teknologi-teknologi akses ini meliputi
+*Passive Optical Networks (PON)*, dikenal pula dengan *Fiber-to-the-Home*.
+Jaringan-jaringan akses ini disediakan oleh operator jaringan besar
+dan kecil. Operator jaringan global seperti AT&T mempunyai jaringan
+akses dengan ribuan agregasi `points-of-presence` di seluruh wilayah
+seperti AS, dengan jaringan tulang punggung nasional yang menghubungkan
+tempat-tempat tersebut. Operator jaringan regional dan kota dapat
+menjalankan jaringan akses dengan satu atau dua *points-of-presence*,
+dan menyambungkannya ke Internet melalui jaringan operator yang lebih
+besar.
 
-In either case, access networks are physically anchored at thousands of
-aggregation points-of-presence within close proximity to end users,
-each of which serves anywhere from 1,000 to 100,000 subscribers,
-depending on population density. In practice, the physical deployment
-of these “edge” locations vary from operator to operator, but one
-possible scenario is to anchor both the cellular and wireline access
-networks in Telco *Central Offices*.
+Dalam kasus yang mana pun, jaringan akses secara fisik menjadi
+pendukung ribuan agregasi *points-of-presence* yang dekat dengan
+pemakai akhir, masing-masing melayani 1000 sampai dengan 100.000
+pelanggan, tergantung kepadatan penduduk. Secara praktis, implementasi
+fisik pada lokasi-lokasi ujung bervariasi antara satu operator dengan
+operator lainnya, namun ada satu kemungkinan skenario yaitu membuat
+titik temu antara jaringan akses seluler dan kabel yaitu pada *Central
+Office*.
 
-Historically, the Central Office—officially known as the *PSTN
-(Public Switched Telephone Network) Central Office*—anchored wired
-access (both telephony and broadband), while the cellular network
-evolved independently by deploying a parallel set of *Mobile Telephone
-Switching Offices (MTSO)*. Each MTSO serves as a *mobile aggregation*
-point for the set of cell towers in a given geographic area. For our
-purposes, the important idea is that such aggregation points exist, and
-it is reasonable to think of them as defining the edge of the
-operator-managed access network. For simplicity, we sometimes use the
-term “Central Office” as a synonym for both types of edge sites.
+Dilihat dari sejarah, *Central Office*—secara resmi dikenal dengan
+*PSTN (Public Switched Telephone Network) Central Office*—menjadi titik
+temu jaringan akses kabel (telepon dan *broadband*), sedang jaringan
+seluler berkembang secara independen dan paralel dengan menerapkan
+sekumpulan *Mobile Telephone Switching Offices (MTSO)*. Setiap MTSO
+dipakai sebagai sebuah titik agregasi *mobile* untuk sejumlah
+menara-menara seluler pada sebuah area. Intinya, ada titik agregasi
+dan hal ini dianggap sebagai ujung dari jaringan akses yang dikelola
+oleh operator. Untuk lebih sederhana, kita akan menggunakan istilah
+“*Central Office*” sebagai sinonim untuk titik agregasi.
 
 1.3 Edge Cloud
 --------------
